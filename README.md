@@ -31,10 +31,6 @@ This project uses the following software and Python libraries:
 - Jupyter
 
 
-**Problem Statement**: This is a binary classification to detect the survival or death
-of a passenger onboard the Titanic. The model predicts predicts the death or
-survival of a new passenger.
-
 **Introduction:**
 RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April
 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. There were
@@ -78,3 +74,7 @@ data
 - **_Pclass varies in terms of age distribution of passengers, class3, most did not survive wheres infants in 2 and
 3 survived and mostly all in 1 survived_**
 ![Screenshot (364)](https://user-images.githubusercontent.com/44723903/90952894-c4fdba00-e484-11ea-8f50-3d99589c4d14.png)
+
+-**_Hence, females had much better survival rate and add sex feature to model and add embarked port feature
+too_**
+
