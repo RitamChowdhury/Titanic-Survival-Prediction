@@ -99,7 +99,4 @@ Compare the performance of various models and choose the **best fit**
 
 **MODEL SCORE**
 
-In these case the best model score is for Decision Tree followed by KNN and
-Logistic Regression.
-
-
+- **_In these case the best model score is for Decision Tree followed by KNN and Logistic Regression._**
