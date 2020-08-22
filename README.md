@@ -6,8 +6,6 @@ TITANIC SURVIVAL PREDICTION
 
 **Ritam Chowdhury**
 
-**6th August 2020.**
-
 **Goal**
 
 Using various ML algorithms I have tried to
