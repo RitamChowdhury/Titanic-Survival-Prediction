@@ -68,12 +68,13 @@ data
 
 [gender_submission.csv](https://www.kaggle.com/c/titanic/data?select=gender_submission.csv)
 
-**Data analysis by plotting:**
+**DATA ANALYSIS BY PLOTTING**
 
--**_Checking Age of All Passengers_**
+**ANALYSIS**
 
+- **_Checking Age of All Passengers_**
 ![Screenshot (363)](https://user-images.githubusercontent.com/44723903/90952851-76e8b680-e484-11ea-9ef6-3f6b95e7eb54.png)
 
--**_Pclass varies in terms of age distribution of passengers, class3, most did not survive wheres infants in 2 and
+- **_Pclass varies in terms of age distribution of passengers, class3, most did not survive wheres infants in 2 and
 3 survived and mostly all in 1 survived_**
-
+![Screenshot (364)](https://user-images.githubusercontent.com/44723903/90952894-c4fdba00-e484-11ea-8f50-3d99589c4d14.png)
