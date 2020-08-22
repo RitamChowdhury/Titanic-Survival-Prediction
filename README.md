@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction-Using-ML-Algorithms
-This is a binary classification to detect the survival or death of a passenger onboard the Titanic. The model predicts the death or survival of a new passenger.
+
+**-This is a binary classification to detect the survival or death of a passenger onboard the Titanic. The model predicts the death or survival of a new passenger._**
 
 TITANIC SURVIVAL PREDICTION
 
@@ -10,9 +11,9 @@ TITANIC SURVIVAL PREDICTION
 With special thanks to entire EICT,IIT Kanpur Dept. And
 Alok Sir.
 
-Kaggle-Titanic-Dataset
+**Goal**
 
-Solution to Kaggle's Titanic Dataset using various ML algorithms The goal is to
+Using various ML algorithms I have tried to
 predict the survival or the death of a given passenger based on 12 feature such as
 sex, age, etc.
 
