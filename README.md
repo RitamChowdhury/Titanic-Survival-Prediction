@@ -7,8 +7,8 @@ TITANIC SURVIVAL PREDICTION
 
 **6th August 2020.**
 
-**With special thanks to entire EICT,IIT Kanpur Dept. And
-Alok Sir.**
+With special thanks to entire EICT,IIT Kanpur Dept. And
+Alok Sir.
 
 Kaggle-Titanic-Dataset
 
@@ -99,4 +99,8 @@ Compare the performance of various models and choose the **best fit**
 
 **MODEL SCORE**
 
+**BEST MODEL SCORE : 86.76 (Decision Tree)**
+
 - **_In these case the best model score is for Decision Tree followed by KNN and Logistic Regression._**
+![Screenshot (451)](https://user-images.githubusercontent.com/44723903/90953961-bbc51b00-e48d-11ea-99ab-704d802c6d5e.png)
+
