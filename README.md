@@ -105,3 +105,5 @@ Compare the performance of various models and choose the **best fit**
 - **_In these case the best model score is for Decision Tree followed by KNN and Logistic Regression._**
 ![Screenshot (451)](https://user-images.githubusercontent.com/44723903/90953961-bbc51b00-e48d-11ea-99ab-704d802c6d5e.png)
 
+**submission.csv FILE shows the list of people with passenger id that have
+survived.**
