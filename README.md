@@ -74,8 +74,27 @@ data
 - **_Pclass varies in terms of age distribution of passengers, class3, most did not survive wheres infants in 2 and 3 survived and mostly all in 1 survived_**
 ![Screenshot (364)](https://user-images.githubusercontent.com/44723903/90952894-c4fdba00-e484-11ea-8f50-3d99589c4d14.png)
 
--**_Hence, females had much better survival rate and added sex feature to model alongwith embarked port feature.
+- **_Hence, females had much better survival rate and added sex feature to model alongwith embarked port feature.
 too_**
 ![Screenshot (365)](https://user-images.githubusercontent.com/44723903/90952909-efe80e00-e484-11ea-90e3-9cde94375691.png)
 
--**Hence, high paying passengers survived more, and thus we consider banding fare feature in our model**
+- **Hence, high paying passengers survived more, and thus we consider banding fare feature in our model**
+![Screenshot (366)](https://user-images.githubusercontent.com/44723903/90952925-09895580-e485-11ea-992c-880e7d111319.png)
+
+**MODELLING:**
+
+In this part, we use our knowledge of the passengers based on the features we
+created and then build a statistical model. You can think of this model as a box
+that crunches the information of any new passenger and decides whether or not
+he survives. A variety of ML algorithms were used and models created for **SVM,
+KNN, Logistic Regression etc.**, Steps:
+
+- Break the combined dataset in train set and test set.
+- Use the train set to build a predictive model.
+- Evaluate the model using the train set.
+- Test the model using the test set and generate and output file and import it
+to another csv file
+
+Compare the performance of various models and choose the **best fit**
+
+
