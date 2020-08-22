@@ -78,3 +78,4 @@ data
 too_**
 ![Screenshot (365)](https://user-images.githubusercontent.com/44723903/90952909-efe80e00-e484-11ea-90e3-9cde94375691.png)
 
+-**Hence, high paying passengers survived more, and thus we consider banding fare feature in our model**
