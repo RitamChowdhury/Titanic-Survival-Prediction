@@ -6,7 +6,7 @@ TITANIC SURVIVAL PREDICTION
 
 **Ritam Chowdhury**
 
-**6th August 2020.*
+**6th August 2020.**
 
 **Goal**
 
