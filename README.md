@@ -6,10 +6,7 @@ TITANIC SURVIVAL PREDICTION
 
 **Ritam Chowdhury**
 
-**6th August 2020.**
-
-With special thanks to entire EICT,IIT Kanpur Dept. And
-Alok Sir.
+**6th August 2020.*
 
 **Goal**
 
