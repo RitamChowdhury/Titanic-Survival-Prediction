@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction-Using-ML-Algorithms
 
-**-This is a binary classification to detect the survival or death of a passenger onboard the Titanic. The model predicts the death or survival of a new passenger._**
+**This is a binary classification to detect the survival or death of a passenger onboard the Titanic. The model predicts the death or survival of a new passenger.**
 
 TITANIC SURVIVAL PREDICTION
 
